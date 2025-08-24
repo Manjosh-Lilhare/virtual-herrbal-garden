@@ -1,0 +1,6 @@
+Terminal Commands:
+
+cd ~/virtual-herrbal-garden
+npm start
+npm run build 
+firebase deploy
