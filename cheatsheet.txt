@@ -3,4 +3,8 @@ Terminal Commands:
 cd ~/virtual-herrbal-garden
 npm start
 npm run build 
+firebase login
+firebase logout
 firebase deploy
+firebase projects:list
+firebase use <name of project to use>
